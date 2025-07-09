@@ -27,6 +27,7 @@ Estudante de tecnologia com experiência em desenvolvimento full stack e paixão
 
 Sou proativo e colaborativo, com foco em otimizar processos e entregar resultados eficientes. Explore meus repositórios para ver minhas contribuições e projetos. Estou aberto a colaborações e pronto para aprender e crescer com a comunidade de desenvolvedores.
 
+> “Faça ou não faça, tentativa não há." — Yoda
 ___
 
 ### Minhas redes de contato:
