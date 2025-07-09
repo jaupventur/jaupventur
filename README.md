@@ -41,7 +41,7 @@ ___
 
 
 <div align="center">
-  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" style="height: 150;">
+  <img src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" style="height: 150px;">
 </div>
 
 ###
